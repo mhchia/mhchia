@@ -2,13 +2,12 @@
 
 Applied cryptography & blockchain protocol engineer.
 
-Domains: ZK, lattice-based crypto, MPC, P2P networking, blockchain protocols.
+Domains: ZK, MPC, P2P networking, blockchain protocols.
 
 ### Currently
 
-Implementing and learning lattice-based folding schemes
-in [@coset-io/baby-lattice-folding](https://github.com/coset-io/baby-lattice-folding).
-My crypto and math experiments live in [cipher-playground](https://github.com/mhchia/cipher-playground).
+- Learning lattice-based folding schemes and implemented a lattice-based folding scheme SALSAA in [@coset-io/baby-lattice-folding](https://github.com/coset-io/baby-lattice-folding).
+- Other cryptography and math experiments live in [cipher-playground](https://github.com/mhchia/cipher-playground).
 
 ### Selected work
 
@@ -20,6 +19,6 @@ My crypto and math experiments live in [cipher-playground](https://github.com/mh
 
 ### Stack
 
-Python · SageMath · TypeScript · Solidity · Circom · C/C++ · Rust · Go
+Python · Rust · TypeScript · Solidity · Circom · C/C++ · Go
 
 📍 Taiwan
